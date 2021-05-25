@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VehicleApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="title_new_ptofile">Create new vehicle profile</string>
+    <string name="title_select_make">Select Make</string>
+    <string name="title_select_model">Select Model</string>
+    <string name="title_select_fuel">Select Fuel type</string>
+    <string name="title_trans">Select Transmission</string>
+    <string name="title_veh">Vehicles</string>
+
+
+
+
+    <string name="select_class">Select vehicle class</string>
+
+    <string-array name="array_class">
+        <item>Select vehicle class</item>
+        <item>2w</item>
+        <item>4w</item>
+    </string-array>
+</resources>
